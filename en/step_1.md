@@ -1,4 +1,4 @@
-The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. An example of a `<title>` tag is `Awesome jokes about dinosaurs`.
+The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. An example of a `<title>` tag is 'Awesome jokes about dinosaurs'.
   
 You can find the `<title>` in the `<head>` element at the top of your `index.html` file. 
 
