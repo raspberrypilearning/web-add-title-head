@@ -1,6 +1,6 @@
-The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. For example `Awesome jokes about dinosaurs`.
+The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. An example of a `<title>` tag is `Awesome jokes about dinosaurs`.
   
-The `<title>` can be found in the `<head>` element at the top of your `index.html` file:
+You can find the `<title>` in the `<head>` element at the top of your `index.html` file. 
 
 --- code ---
 ---
@@ -22,7 +22,7 @@ line_highlights: 9
 
 --- /code ---
   
-**Tip:** Now that your title has been updated you can collapse the <head>. Collapsing parts of the code you don't need to focus on helps to make your code easier to read.
+**Tip:** Now that you have updated your title, you can collapse the `<head>`. You can collapse parts of the code that you don't need to focus on to make your code easier to read.  
 
-Click on the small triangle next to line 3 to collapse the <head>. If you need to add fonts or change the title later you can expand it again when you need to. 
+Click on the small triangle next to line 3 to collapse the `<head>`. If you need to add fonts or change the title later, you can expand it again when you need to. 
 
