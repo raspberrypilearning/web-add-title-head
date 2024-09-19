@@ -1,6 +1,6 @@
-The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. An example of a `<title>` tag is 'Awesome jokes about dinosaurs'.
+La balise `<title>` s'affiche dans la barre de titre de ton navigateur web et doit être pertinente pour ta page. Un exemple de balise `<title>` est 'Blagues géniales sur les dinosaures'.
 
-You can find the `<title>` in the `<head>` element at the top of your `index.html` file.
+Tu peux trouver le `<title>` dans l'élément `<head>` en haut de ton fichier `index.html`.
 
 ## --- code ---
 
@@ -21,11 +21,11 @@ line_highlights: 9
 
 ```
   <!-- Title shown in web browsers-->
-  <title>My website title</title>
+  <title>Le titre de mon site web</title>
 ```
 
 \--- /code ---
 
-**Tip:** Now that you have updated your title, you can collapse the `<head>`. You can collapse parts of the code that you don't need to focus on to make your code easier to read.
+**Astuce :** maintenant que tu as mis à jour ton titre, tu peux réduire le `<head>`. Tu peux réduire les parties du code sur lesquelles tu n'as pas besoin de te concentrer pour rendre ton code plus facile à lire.
 
-Click on the small triangle next to line 3 to collapse the `<head>`. If you need to add fonts or change the title later, you can expand it again when you need to.
+Clique sur le petit triangle à côté de la ligne 3 pour réduire le `<head>`. Si tu as besoin d'ajouter des polices ou de modifier le titre plus tard, tu pourras le développer à nouveau lorsque tu en auras besoin.
