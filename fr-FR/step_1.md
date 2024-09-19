@@ -17,7 +17,7 @@ line_highlights: 9
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-      <!-- Title shown in web browsers -->
+      <!-- Titre affiché dans les navigateurs web -->
       <title>Le titre de mon site web</title>
 
 --- /code ---
