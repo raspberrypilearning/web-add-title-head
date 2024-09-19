@@ -1,6 +1,6 @@
-The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. An example of a `<title>` tag is 'Awesome jokes about dinosaurs'.
+De `<title>` tag wordt weergegeven in de titelbalk van je webbrowser en moet relevant zijn voor je pagina. Een voorbeeld van een `<title>`-tag is 'Geweldige grappen over dinosaurussen'.
 
-You can find the `<title>` in the `<head>` element at the top of your `index.html` file.
+Je kunt de `<title>` binnen het `<head>` element vinden bovenaan je `index.html` bestand.
 
 ## --- code ---
 
@@ -20,12 +20,12 @@ line_highlights: 9
       <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
 ```
-  <!-- Title shown in web browsers-->
-  <title>My website title</title>
+  <!-- Titel weergegeven in webbrowsers-->
+  <title>Mijn website titel</title>
 ```
 
 \--- /code ---
 
-**Tip:** Now that you have updated your title, you can collapse the `<head>`. You can collapse parts of the code that you don't need to focus on to make your code easier to read.
+**Tip:** Nu je de titel hebt bijgewerkt, kun je de `<head>` inklappen. Je kunt delen van de code inklappen die je niet direct nodig hebt, om je code gemakkelijker te kunnen lezen.
 
-Click on the small triangle next to line 3 to collapse the `<head>`. If you need to add fonts or change the title later, you can expand it again when you need to.
+Klik op het kleine driehoekje naast regel 3 om de `<head>` in te klappen. Als je lettertypen wilt toevoegen of de titel later wilt wijzigen, kun je het opnieuw uitklappen wanneer dat nodig is.
