@@ -29,3 +29,4 @@ line_highlights: 9
 **Astuce :** maintenant que tu as mis à jour ton titre, tu peux réduire le `<head>`. Tu peux réduire les parties du code sur lesquelles tu n'as pas besoin de te concentrer pour rendre ton code plus facile à lire.
 
 Clique sur le petit triangle à côté de la ligne 3 pour réduire le `<head>`. Si tu as besoin d'ajouter des polices ou de modifier le titre plus tard, tu pourras le développer à nouveau lorsque tu en auras besoin.
+
