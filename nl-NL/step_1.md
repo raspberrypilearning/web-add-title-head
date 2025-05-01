@@ -29,3 +29,4 @@ line_highlights: 9
 **Tip:** Nu je de titel hebt bijgewerkt, kun je de `<head>` inklappen. Je kunt delen van de code inklappen die je niet direct nodig hebt, om je code gemakkelijker te kunnen lezen.
 
 Klik op het kleine driehoekje naast regel 3 om de `<head>` in te klappen. Als je lettertypen wilt toevoegen of de titel later wilt wijzigen, kun je het opnieuw uitklappen wanneer dat nodig is.
+
