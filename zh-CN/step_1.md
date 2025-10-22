@@ -1,6 +1,6 @@
-The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. An example of a `<title>` tag is 'Awesome jokes about dinosaurs'.
+`<title>` 标签显示在你的网络浏览器的标题栏中，并且应该与你的页面相关。 一个 `<title>` 标签的例子是“关于恐龙的精彩笑话”。
 
-You can find the `<title>` in the `<head>` element at the top of your `index.html` file.
+你可以在 `index.html` 文件顶部的 `<head>` 元素中找到 `<title>`。
 
 ## --- code ---
 
@@ -20,13 +20,13 @@ line_highlights: 9
       <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
 ```
-  <!-- Title shown in web browsers-->
-  <title>My website title</title>
+  <!-- 网页浏览器显示的标题 -->
+  <title>我的网站标题</title>
 ```
 
 \--- /code ---
 
-**Tip:** Now that you have updated your title, you can collapse the `<head>`. You can collapse parts of the code that you don't need to focus on to make your code easier to read.
+\*\*提示：\*\*现在你已经更新了标题，你可以折叠 `<head>`。 你可以折叠不需要关注的代码部分，以使代码更易于阅读。
 
-Click on the small triangle next to line 3 to collapse the `<head>`. If you need to add fonts or change the title later, you can expand it again when you need to.
+单击第 3 行旁边的小三角形以折叠 `<head>`。 如果以后需要添加字体或者更改标题，可以在需要的时候再次展开。
 
